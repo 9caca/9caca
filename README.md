@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 <p align="justify">
-I am a financial professional transitioning into a career in data engineering. With over 10 years of experience in banking and financial services, I have a strong foundation in data analysis, financial reporting, and problem-solving. Currently, I am studying Python and SQL through Alura to build the technical skills needed for this new path.
+I am a financial professional transitioning into data engineering, bringing over 10 years of experience in banking and financial services. My background includes extensive work with financial data, reporting, and problem-solving, which has honed my analytical thinking and attention to detail.
 
-During my time at Caixa Econômica Federal, I gained experience working with financial data and advising small businesses, which involved analyzing cash flows and interpreting financial statements. This cultivated my attention to detail, analytical thinking, and ability to collaborate with diverse stakeholders—skills that are invaluable in data engineering.
+Currently, I am deepening my technical skills in Python, SQL, and data engineering tools through hands-on projects and open-source contributions. I am passionate about leveraging data to build efficient, scalable solutions and drive data-informed decision-making.
 
-I am passionate about leveraging technology and data to create efficient, impactful solutions. My goal is to combine my expertise in financial services with new technical knowledge to contribute to data-driven decision-making and innovative projects.</p>
+My goal is to combine my expertise in financial analysis with my growing technical knowledge to contribute to impactful data engineering projects. I am particularly interested in data pipelines, automation, and creating systems that transform raw data into actionable insights.</p>
 
 ## Languages e Tools 💻
 <div style="display: inline">
